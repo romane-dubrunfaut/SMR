@@ -1,0 +1,98 @@
+@import url("components/text-jstfy.css");
+@import url("components/image-ronde.css");
+@import url("components/banner.css");
+@import url("components/text-center.css");
+@import url("components/btn.css");
+@import url("components/sommaire.css");
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/image-topic.css");
+@import url("components/onglets.css");
+@import url("components/liens.css");
+@import url("components/content.css");
+@import url("components/margin.css");
+@import url("components/profil.css");
+
+
+body {
+	margin: 0px;
+	color: rgb(240,240,240);
+	 background-color: rgb(245,245,245);
+}
+h1 {margin-top: 20px;
+	font-family: 'poppins', sans serif;
+	font-weight: bold;
+	font-size: 30px; 
+}
+h2 {font-size: 20px;
+	font-family: 'poppins', sans serif;
+	font-weight: lighter;	
+
+}
+
+
+p{  
+	font-family: 'poppins', sans serif;
+	color: black;
+	text-align: justify;
+}
+
+
+a{text-decoration: none;
+  color: white;
+ }
+a:hover{
+	color: black;
+}
+
+html{height: 100%;}
+h3{
+	color: black;
+	margin-bottom: 0px;
+	size: 30px;
+}
+
+.centre{
+	align-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 25%;
+}
+
+.btn{
+	height: 50px;
+	width: 50px;
+	background: black;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	cursor: pointer;
+}
+.icone{
+	width: 50px
+}	
+:root {
+    --ecriture: #f1f1f1;
+    --background: #262626;
+}

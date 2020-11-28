@@ -1,0 +1,48 @@
+.btn-banner{
+	font-size: 20px;
+	font-family: 'poppins', sans serif;
+	padding: 5px;
+	display: block;
+    font-weight: lighter;
+    color: #606060;
+    background: #efa424;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    position: relative;
+    box-shadow: 0 6px #ff6f5e;
+}
+.btn-banner:hover{
+    box-shadow: 0 4px #ff6f5e;
+    top: 2px;
+}
+.btn-banner:active {
+    box-shadow: 0 0 #ff6f5e;
+    top: 6px;
+}
+
+#btn-insta{
+	background-color: #ff6f5e;
+	border:#ff6f5e;
+	border-radius: 5px; 
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin: auto;
+	font-size: 20px;
+	font-family: 'poppins', sans serif;
+	padding: 5px;
+	display: block;
+    font-weight: lighter;
+    color: #606060;
+    background: #efa424;
+    outline: none;
+    cursor: pointer;
+    border-radius: 20px;
+    position: relative;
+    box-shadow: 0 6px #ff6f5e;
+}
+#btn-insta:hover{
+	box-shadow: 0 4px #ff6f5e;
+    top: 2px;
+}

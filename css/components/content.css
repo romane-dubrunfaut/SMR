@@ -1,0 +1,37 @@
+.content{
+	position: left;
+	padding: 10px;
+	font-family: 'poppins', sans serif;
+}
+
+.content h1{
+	text-align: center;
+	color: black;
+	margin: auto;
+	
+
+}	
+.content p{font-family: 'poppins', sans serif;}
+
+.content h2 {color: #63707e;
+	font-weight: lighter;
+	font-size: 30px;
+	text-align: center;
+	margin: 20px 0px 20px 0px
+}
+
+.content h3{
+	margin-left: 50px;
+}
+.align-right{
+	float: right;
+}
+
+#btn-insta a{
+	color: white;
+}
+
+#btn-insta a:hover{
+	color: black;
+}
+

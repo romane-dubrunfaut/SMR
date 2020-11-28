@@ -1,0 +1,42 @@
+.sommaire{
+	background-color: rgb(121 121 121);
+	color: blue;
+	border-bottom: 0.5px solid black;
+	width: auto;
+	text-align: center;
+	display: flex;
+	padding: 5px;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-right: 0px;
+	padding-right: 0px;
+	font-family: 'poppins', sans serif;
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+
+.sommaire h1{font-size: 20px;
+			 padding: 30px;
+			 color: rgb(100,100,100);}
+
+.sommaire a{
+	color: white;
+	padding: 0px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	margin:auto;
+	padding-right: 0px;
+}
+
+.sommaire a:hover {color: #ff6f5e;}
+
+.sommaire div{
+	padding: 30px;
+	text-align: center;
+	padding-bottom: 60px;
+	padding-top: 60px;
+}
+
+
+
